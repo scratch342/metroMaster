@@ -1,0 +1,53 @@
+body {
+    overflow: hidden;
+}
+
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+.my-nav-text {
+    color: white;
+    font-size: 6em;
+    text-align: center;
+}
+
+.my-nav {
+    background-color: #00a243;
+    padding-bottom: 0.5em;
+    margin-bottom: 2em;
+}
+
+
+
+
+.btn-xl {
+    padding: 1em 2em;
+    font-size: 2em;
+    border-radius: 0.2em;
+    background-color: #a0dcd6;
+    border: black;
+    color: black;
+}
+
+.btn-norm {
+    padding-top: 5em;
+    padding: 0.5em 1em;
+    font-size: 1em;
+    border-radius: 0.1em;
+    background-color: #a0dcd6;
+    border: black;
+    color: black;
+}
+
+
+.i1 {
+    padding-left: 32%;
+}
+
+.i2 {
+    padding-left: 32%;
+}
+
+
